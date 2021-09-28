@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Blog
+menu: main
 permalink: /blog/
 ---
 
-# 📝 My Blog Posts
+<h1> 📝 My Blog Posts </h1>
 
 <ul class="posts">
 
@@ -16,6 +17,8 @@ permalink: /blog/
   <p class="p-date">{{ post.date | date_to_string}} &nbsp;·&nbsp;
   {% for tag in post.tags %}
     {{ tag }}
-  {% endfor %}
+  {% endfor %}</p>
 {% endfor %}
-</p>
+</div>
+</ul>
+

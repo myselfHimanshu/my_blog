@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: page
+menu: main
 title: About
 permalink: /about/
 ---
-
-# 👨🏻‍💻 About
 
 I am a computer programmer by trade and use Python almost exclusively to make my living. An experienced Software Engineer with a passion for Machine Learning and Data Science.
 
