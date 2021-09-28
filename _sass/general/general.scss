@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+
+* {
+	font-family: Merriweather;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+.page-link {
+	font-size: 16px;
+	font-family: Raleway;
+	opacity: 0.5;
+}
+
+.page-link:hover{
+	opacity: 1;
+}
+
+footer {
+	font-size: 12px;
+    .wrapper {
+        text-align: center;
+    }
+    .social-links {
+        font-size: 2rem;
+    }
+}
+
+p {
+	margin-bottom: 15px;
+	line-height: 2;
+}
+
+.home-bullets-posts li {
+    margin-left: -38px;
+    margin-bottom: 5px;
+    list-style: none;
+}
+
+a:link, a:active, a:visited {
+	color: rgb(92, 92, 255);
+}
+
+a:hover{
+	color: #000;
+}
+
+.highlighter-rouge .highlight {
+	font-family: Ubuntu;
+    padding: 15px 15px 15px 15px;
+	border-color: rgb(0, 0, 0);
+	background: rgb(255, 255, 255);
+}
+
+.highlight code {
+	background-color: white;
+}
+
+ul {
+    display: block;
+	list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+li {
+	margin-bottom: 12px;
+}
+
+.site-title {
+	font-size: 24px;
+	font-family: Raleway;
+}
+
+.site-header {
+	padding: 18px;
+	border-bottom-color: white;
+}
+
+.p-listing {
+    margin-bottom: 2em;
+}
+
+.p-title {
+    font-family: merriweather,Helvetica,sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.p-desc {
+    margin: 0;
+    font-family: raleway,Helvetica,sans-serif;
+    font-size: 14px;
+}
+
+.p-date {
+    font-size: 14px;
+    font-family: raleway,Helvetica,sans-serif;
+    margin-top: -.1em;
+    color: rgb(92, 92, 255);
+}
+
