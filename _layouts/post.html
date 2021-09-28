@@ -31,8 +31,8 @@ layout: default
   </div>
 
   <hr>
-  <h2>Comments : {{ page.title }}</h2>
-  {% include utterances.html %}
+  
+  {%- include utterances.html -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
