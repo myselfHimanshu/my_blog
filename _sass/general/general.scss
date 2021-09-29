@@ -41,6 +41,13 @@ p {
     list-style: none;
 }
 
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+} 
+
 a:link, a:active, a:visited {
 	color: rgb(92, 92, 255);
 }

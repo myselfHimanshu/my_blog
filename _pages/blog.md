@@ -16,7 +16,7 @@ permalink: /blog/
   <p class="p-desc">{{ post.description }}</p>
   <p class="p-date">{{ post.date | date_to_string}} &nbsp;·&nbsp;
   {% for tag in post.tags %}
-    {{ tag }}
+    ({{ tag }})
   {% endfor %}</p>
 {% endfor %}
 </div>
