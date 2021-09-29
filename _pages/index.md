@@ -6,7 +6,7 @@ permalink: /
 
 <h1> 👋 Hi, I am Himanshu Panwar </h1>
 
-Data Science, Machine Learning, Computer Vision, and Teaching are my passion. This blog is an extension of my passion in helping students and data enthusiast learn about Data Science and how it can be used to make sense of data. 
+I’m a passionate Software Engineer who loves Machine Learning, Computer Vision, and Data Science. I like teaching and this blog is an extension of my passion in helping students and data enthusiast learn about Data Science. 
 
 <hr>
 
