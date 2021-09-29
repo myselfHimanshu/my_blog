@@ -40,12 +40,6 @@ defaults:
       is_post: false
       layout: default
 
-utterances:
-  repo: "https://github.com/myselfHimanshu/my_blog"
-  issue-term: "url"
-  label: "utteranc.es"
-  theme: "github-light"
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -22,7 +22,7 @@ Data Science, Machine Learning, Computer Vision, and Teaching are my passion. Th
 
 <hr>
 
-<center><h2>Github Repos</h2></center>
+<center><h2>Github Projects</h2></center>
 
 - [Computer Vision State Of The Art Algorithms Project in Pytorch](https://github.com/myselfHimanshu/ultron-vision)
 - [Food Ordering Chatbot using Rasa](https://github.com/myselfHimanshu/food-ordering-chatbot)
