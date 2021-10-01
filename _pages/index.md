@@ -8,6 +8,7 @@ permalink: /
 
 I’m a passionate Software Engineer who loves Machine Learning, Computer Vision, and Data Science. I like teaching and this blog is an extension of my passion in helping students and data enthusiast learn about Data Science. 
 
+{% include newsletter.html %}
 <hr>
 
 <center><h2>Latest Posts</h2></center>
