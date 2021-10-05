@@ -14,7 +14,7 @@ If you have any questions, feedback, or comments, just shoot me a message! I am 
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-<a href="https://twitter.com/hemanshup_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshup" height="30" width="40" /></a>
+<a href="https://twitter.com/anshupy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshupy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/047himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshup" height="30" width="40" /></a>
 <a href="https://github.com/myselfhimanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="himanshup" height="30" width="40" /></a>
 
