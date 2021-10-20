@@ -26,12 +26,27 @@ h1 {
     border-radius: 10px;
 }
 
+.fsdss-embed {
+    color: #ffffff;
+    text-align: center;
+    border-radius: 10px;
+}
+.fsdss-button {
+    margin:auto;
+    display:block;
+}
+
 form {
     width: 100%;
     margin: 0.5em auto;
 }
 
 .revue-input {
+    display: flex;
+    align-items: center;
+}
+
+.fsdss-input {
     display: flex;
     align-items: center;
 }
@@ -66,7 +81,25 @@ form {
     transition: background .3s ease-in-out;
 }
 
+#fsdss_submit {
+    width: 35%;
+    height: 46px;
+    font-size: 14px;
+    background: rgb(92, 92, 255);
+    font-family: inherit;
+    font-weight: bold;
+    color: inherit;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background .3s ease-in-out;
+}
+
 #member_submit:hover {
+    background: #000000;
+}
+
+#fsdss_submit:hover {
     background: #000000;
 }
 
