@@ -3,13 +3,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Free Python and Machine Learning Tutorials. Data Science, Machine Learning, Computer Vision, 
   and Teaching are my passion. This blog is an extension of my passion in helping students and 
   data enthusiast learn about Data Science.
-baseurl: "/my_blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
   # generate social links in footer
   social_links:
-    twitter: hemanshup_
+    twitter: anshupy
     github:  myselfhimanshu
     
 # Build settings
